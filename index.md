@@ -14,7 +14,7 @@
 
    <h2>About Me</h2>
    <p>Hi! I'm a passionate about Nothing .</p>
-  </section>
+  
 
   
   <p>Email me at: <a href="mailto:gnane5h@yahoo.com">gnane5h@yahoo.com</a></p>
