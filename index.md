@@ -54,7 +54,7 @@
 
   <section id="contact" class="section">
     <h2>Contact</h2>
-    <p>Email me at: <a href="mailto:gnane5h@yahoo.com">your.email@example.com</a></p>
+    <p>Email me at: <a href="mailto:gnane5h@yahoo.com">gnane5h@yahoo.com</a></p>
     <p>Follow me on <a href="https://linkedin.com/in/gnane5h" target="_blank">LinkedIn</a></p>
   </section>
 
