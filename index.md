@@ -11,20 +11,17 @@
     <h1>Gnanesh Yadav</h1>
 
 
-  <section id="about" class="section">
-    <h2>About Me</h2>
-    <p>Hi! I'm a passionate about Nothing .</p>
+
+   <h2>About Me</h2>
+   <p>Hi! I'm a passionate about Nothing .</p>
   </section>
 
   
-    <p>Email me at: <a href="mailto:gnane5h@yahoo.com">gnane5h@yahoo.com</a></p>
-    <p>Follow me on <a href="https://linkedin.com/in/gnane5h" target="_blank">LinkedIn</a></p>
+  <p>Email me at: <a href="mailto:gnane5h@yahoo.com">gnane5h@yahoo.com</a></p>
+  <p>Follow me on <a href="https://linkedin.com/in/gnane5h" target="_blank">LinkedIn</a></p>
   </section>
-
-  <footer>
+    <footer>
     <p>© 2024 Gnanesh Yadav | Built with ❤️</p>
   </footer>
-
-  <script src="scripts.js"></script>
 </body>
 </html>
